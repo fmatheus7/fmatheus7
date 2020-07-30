@@ -1,4 +1,6 @@
 ### Matheus Freire.
+  
+  <img src="https://github.com/fmatheus7/fmatheus7/blob/master/minifesto.gif" width=400>
 
 
 Hey!  I'm currently a student (self-taught) and aspiring software developer. Interested in working on both front and backend.
